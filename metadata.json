@@ -1,0 +1,6 @@
+{
+  "name": "BLOODLINK - Blood Coordination & Prepared Surgery Platform",
+  "description": "BLOODLINK is a privacy-first blood coordination and prepared surgery support platform connecting voluntary donors, patients, hospitals, and authorized blood banks through transparent, consent-based workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
